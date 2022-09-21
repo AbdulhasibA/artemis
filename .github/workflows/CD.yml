@@ -1,5 +1,5 @@
 env:
-  repo: "https://github.com/AbdulhasibA/artemis"
+  repo: "https://github.com/AbdulhasibA/artemis.git"
   app_version: "1.0.0"
   project_id: "plhjwfwkhhdyrjtn"
   repo_region: "us-central1"
